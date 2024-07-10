@@ -1,6 +1,13 @@
+import Mehak from 
+
+
+;
 function App() {
   return (
+    <>
+    <Mehak/>
     <h1>react</h1>
+    </>
   );
 }
 

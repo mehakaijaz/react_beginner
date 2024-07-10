@@ -1,9 +1,11 @@
+import Mehak from "./mehak"
 
 function App() {
-  
-
   return (
-    <h1>vite with react</h1>
+    <>
+    <Mehak/>
+    <h1>SDFTYGHU</h1>
+    </>
       
   )
 }
